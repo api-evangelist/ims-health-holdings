@@ -1,7 +1,12 @@
 aid: ims-health-holdings
-url: https://raw.githubusercontent.com/api-evangelist/ims-health-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ims-health-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.ims-health-holdings.com
+description: >-
+  IMS Health Holdings was a leading global information and technology services company
+  providing clients in the healthcare industry with end-to-end solutions before merging
+  with Quintiles to form IQVIA.
