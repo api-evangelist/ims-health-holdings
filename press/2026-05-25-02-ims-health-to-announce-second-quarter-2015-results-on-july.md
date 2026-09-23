@@ -1,7 +1,9 @@
 ---
 title: IMS Health To Announce Second-Quarter 2015 Results On July ...
 url: https://www.biospace.com/ims-health-to-announce-second-quarter-2015-results-on-july-31-2015
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IMS Health Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google

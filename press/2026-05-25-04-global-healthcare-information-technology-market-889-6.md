@@ -1,7 +1,9 @@
 ---
 title: Global Healthcare Information Technology Market $889.6 ...
 url: https://www.ihealthcareanalyst.com/global-health-information-technology-market/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"IMS Health Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
